@@ -1,0 +1,34 @@
+@media (max-width: 575px){
+    nav{
+         display: none;
+    
+    }
+    .navmob{
+        display: block;
+        background-color: red;
+        padding: 10px;
+    }
+    .navmob .logos a h4{
+        color: white;
+       
+    }
+   
+    .logos{
+        background-color: blue;
+       
+    
+
+    }
+    .menubar.icon{
+        background-color: green;
+      
+    }
+    .menubar.icon i{
+    
+
+        
+         color: white;
+        
+    }
+    
+}
